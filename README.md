@@ -69,8 +69,8 @@ connections/
 
 4. Locate and extract:
 
-   * `followers_1.html`
-   * `following.html`
+   * `followers_1.json`
+   * `following.json`
 
 ---
 
